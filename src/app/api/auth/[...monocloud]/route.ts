@@ -1,3 +1,3 @@
-import { monoCloudAuth } from "@monocloud/monocloud-nextjs";
+import { monoCloudAuth } from '@monocloud/nextjs-auth';
 
 export const GET = monoCloudAuth();
